@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as follows."
+title: "Recursive Participation"
+authors:
+  - family-names: Keen
+    given-names: Ethan Alan
+    orcid: "https://orcid.org/YOUR-ORCID"
+version: 1.0.0
+date-released: 2024-01-01
+url: "https://github.com/ethanalankeen/recursive-participation"
+repository-code: "https://github.com/ethanalankeen/recursive-participation"
+keywords:
+  - "Recursive Participation"
+  - "Category Architecture"
+  - "Somatic Regulation"
+  - "Founder Calibration"
+  - "Conscious Interdependence"
+abstract: >
+  Recursive Participation replaces linear force with calibrated orientation, guiding founders from isolated effort to conscious interdependence by teaching them to read friction as information and return as practice.
+type: software
+license: MIT
